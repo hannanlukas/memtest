@@ -1,0 +1,8 @@
+title: Crackman
+description: You
+input: ./src
+files:
+  - "*.hpp"
+  - "**/*.hpp"
+  - "*.h"
+  - "**/*.h"
